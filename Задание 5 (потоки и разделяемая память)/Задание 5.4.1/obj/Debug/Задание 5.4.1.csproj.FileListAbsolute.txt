@@ -1,0 +1,11 @@
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\bin\Debug\Задание 5.4.1.exe.config
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\bin\Debug\Задание 5.4.1.exe
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\bin\Debug\Задание 5.4.1.pdb
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание_5._4._1.Form1.resources
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание_5._4._1.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.exe
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.4.1\obj\Debug\Задание 5.4.1.pdb

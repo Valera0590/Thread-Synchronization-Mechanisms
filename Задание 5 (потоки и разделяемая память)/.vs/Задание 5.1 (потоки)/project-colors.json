@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e168bc2-ca26-484d-9113-a5617bf49dad": {
+      "ProjectGuid": "5e168bc2-ca26-484d-9113-a5617bf49dad",
+      "DisplayName": "Задание 5.1 (потоки)",
+      "ColorIndex": 0
+    },
+    "df6ad330-29ae-46ea-a47a-d2221bc8595e": {
+      "ProjectGuid": "df6ad330-29ae-46ea-a47a-d2221bc8595e",
+      "DisplayName": "Задание 5.2 (потоки)",
+      "ColorIndex": 1
+    },
+    "e69a629c-bee3-49e3-a6b6-84c7563e519a": {
+      "ProjectGuid": "e69a629c-bee3-49e3-a6b6-84c7563e519a",
+      "DisplayName": "Задание 5.3 (потоки)",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "cdf211d5-c1b0-41df-baec-3e183c9d3256": {
+      "ProjectGuid": "cdf211d5-c1b0-41df-baec-3e183c9d3256",
+      "DisplayName": "Задание 5.4.1",
+      "ColorIndex": 3
+    },
+    "80bad871-5036-4208-9326-c22f085e2373": {
+      "ProjectGuid": "80bad871-5036-4208-9326-c22f085e2373",
+      "DisplayName": "Задание 5.4.2 (исполнение команд)",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

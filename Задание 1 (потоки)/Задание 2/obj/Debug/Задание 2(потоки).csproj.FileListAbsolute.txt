@@ -1,0 +1,7 @@
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\obj\Debug\Задание 2(потоки).csprojAssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\obj\Debug\Задание 2(потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 2\obj\Debug\Задание 2.pdb

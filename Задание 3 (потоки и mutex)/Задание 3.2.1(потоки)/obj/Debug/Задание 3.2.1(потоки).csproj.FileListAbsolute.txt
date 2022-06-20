@@ -1,0 +1,11 @@
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\bin\Debug\Задание 3.2.1(потоки).exe.config
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\bin\Debug\Задание 3.2.1(потоки).exe
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\bin\Debug\Задание 3.2.1(потоки).pdb
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание_3._2._1_потоки_.Form1.resources
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание_3._2._1_потоки_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).exe
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).pdb
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.2.1(потоки)\obj\Debug\Задание 3.2.1(потоки).csproj.SuggestedBindingRedirects.cache

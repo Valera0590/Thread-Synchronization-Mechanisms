@@ -1,0 +1,15 @@
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\Задание 5.3 (потоки).exe
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\Задание 5.3 (потоки).deps.json
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\Задание 5.3 (потоки).runtimeconfig.json
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\Задание 5.3 (потоки).dll
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\ref\Задание 5.3 (потоки).dll
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\bin\Debug\net6.0\Задание 5.3 (потоки).pdb
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).AssemblyInfoInputs.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).AssemblyInfo.cs
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).dll
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\ref\Задание 5.3 (потоки).dll
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).pdb
+C:\Users\Валерий\source\repos\Задание 5.1 (потоки)\Задание 5.3 (потоки)\obj\Debug\net6.0\Задание 5.3 (потоки).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задание 5.3 (потоки)/1.0.0": {
+        "runtime": {
+          "Задание 5.3 (потоки).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задание 5.3 (потоки)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

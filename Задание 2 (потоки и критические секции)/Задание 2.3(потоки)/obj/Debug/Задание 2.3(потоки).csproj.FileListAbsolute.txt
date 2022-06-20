@@ -1,0 +1,10 @@
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание 2.3(потоки).csprojAssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание_2._3_потоки_.Form1.resources
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание_2._3_потоки_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание 2.3(потоки).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание 2.3(потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\bin\Debug\Задание 2.3(потоки).exe.config
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\bin\Debug\Задание 2.3(потоки).exe
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\bin\Debug\Задание 2.3(потоки).pdb
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание 2.3(потоки).exe
+C:\Users\Валерий\source\repos\Задание 2.1(потоки)\Задание 2.3(потоки)\obj\Debug\Задание 2.3(потоки).pdb

@@ -1,0 +1,10 @@
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\bin\Debug\Задание 4(потоки).exe.config
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\bin\Debug\Задание 4(потоки).exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\bin\Debug\Задание 4(потоки).pdb
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание 4(потоки).csprojAssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание_4_потоки_.Form1.resources
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание_4_потоки_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание 4(потоки).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание 4(потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание 4(потоки).exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 4(потоки)\obj\Debug\Задание 4(потоки).pdb

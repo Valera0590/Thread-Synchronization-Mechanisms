@@ -1,0 +1,6 @@
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\bin\Release\Задание 1(потоки).exe.config
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\bin\Release\Задание 1(потоки).exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\bin\Release\Задание 1(потоки).pdb
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\obj\Release\Задание 1(потоки).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\obj\Release\Задание 1(потоки).exe
+C:\Users\Валерий\source\repos\Задание 1(потоки)\Задание 1(потоки)\obj\Release\Задание 1(потоки).pdb

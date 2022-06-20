@@ -1,0 +1,7 @@
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\bin\Debug\Задание 3.1.exe.config
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\bin\Debug\Задание 3.1.exe
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\bin\Debug\Задание 3.1.pdb
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\obj\Debug\Задание 3.1.csprojAssemblyReference.cache
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\obj\Debug\Задание 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\obj\Debug\Задание 3.1.exe
+C:\Users\Валерий\source\repos\Задание 3.1\Задание 3.1\obj\Debug\Задание 3.1.pdb
